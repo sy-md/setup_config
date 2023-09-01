@@ -7,10 +7,14 @@ install wsl >>
 passwd / reseach about user names >>
 hushlogin >>
 login >>
+install [git,lolcat,figlet,cal]
 install your athena >>
 
 * wsl
 * touch ~/.hushlogin
 * passwd / login
-* zsh 
+* zsh
+
+
+when u get into your Athena goto atna_settings and run your setup.py
 
